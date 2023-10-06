@@ -1,2 +1,3 @@
 # PrepCourse-Henry
-Este es la prueba de como crear un repositorio y clonarlo desde Github a mi escritorio local
+Ezequiel Muriel
+Estoy probando de clonar desde el GITHUB hacia mi escritorio local.
